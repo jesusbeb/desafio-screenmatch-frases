@@ -23,7 +23,7 @@ Abrir la carpeta descomprimida con IntelliJ.
 
 En IntelliJ configuramos la autoejecucion, vamos a File, Settings, Build,Execution,Deployment, Compiler y activamos "Build project automatically". Luego en Advanced Settings activamos "Allow auto-make to start even if development applicacion is currently running".
 
-Abrimos el frontend con algun navegador para poder ir viendo los cambios que hagamos en el Backend.
+Abrimos el frontend con algun navegador para poder ir viendo los cambios que hagamos en el Backend. El frontend se puede encontrar en un fork entre los repositorios de github.
 
 Configuramos application.properties
 
